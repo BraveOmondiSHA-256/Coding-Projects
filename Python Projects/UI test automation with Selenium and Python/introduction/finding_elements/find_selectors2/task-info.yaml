@@ -1,0 +1,34 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: .card-text.lenin-cat
+    is_correct: true
+  - text: .lenin_cat
+    is_correct: false
+  - text: .lenin-cat
+    is_correct: true
+  - text: .card-text
+    is_correct: false
+  - text: "[text=\"Lenin cat\"]"
+    is_correct: false
+files:
+  - name: task.py
+    visible: true
+    encrypted_text: TPj9BPDwTMwdUA0jYDXXWAUU/5JaPNPsyNouQPtjKutJ8Mkhq+FWD5p58rxnu1qKZYkQkpyWHxFORAde4ABpE8PbRAG9mDsd10KjQTWcRxR+d6KnfEWfqRb6X/ipk7PtO1JFihRFXe3ZFkkRxv65wqmXoMmmxhauBQHxvpz4ABUiCaVdz0c6Nw+i3/YTzVL2
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdQTjn1YHMq4gonGgZk0sm4e2OyikErDYBXQftY1lQu6Db7Nv/Emb6F6Q+VcO/Tt5v9QB3Mafnk48sFDMfWyYZazkugqi2wmLamjAVb7+k2YBHCT4GjVm7/XyGkMqaMOQuxjOsgNcFftcW/mdjNl8UbULUmc+u9ccd0fjiFWqFl4DLfjoVESHh61LaXmXkTOAXT5nfMsAxt36kJ12N6jzjcFeVc+VZuJ3c+4MZdJSjHMJ2+cIn8xbCgonAIzmsBKBXl+vkBlZjmaEFlb/l8ydSY0=
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Unchecked
+record: -1
+custom_name: "task: finding correct selectors 2"
+local_check: true

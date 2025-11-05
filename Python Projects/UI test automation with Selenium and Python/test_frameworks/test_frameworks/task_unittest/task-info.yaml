@@ -1,0 +1,47 @@
+type: edu
+custom_name: "task: unittest"
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 60
+        length: 6
+        placeholder_text: '# TODO'
+        initial_state:
+          length: 6
+          offset: 60
+        initialized_from_dependency: false
+        encrypted_possible_answer: XIlL2u+4gqNTqO7La77YdUuVRut+5Ep4khfbZ53Ve6VxhRM4S6BBgKkfUcAuh/xGbqSweuomf4JZXjGaGNF+COpEyBm9Zt35Ht3OSDj81JpSTpo3dgx6XLHbJnmLClgC19A7myPpcf+VBsr0LcJPFN7njimpiw9Jl0YEzQIpTg0yXmfxyFaYcp4F4Q039hG950wOFQm1so86HIBV67Tts5H0AEIg0oQUFvywsAvuua04/aBa3Om2dqbcw+z+d0XIINm7k0Ywk2mDIlnYYnkmEsAJ3iqMGiKN/1QDOcQmYprDGzaY2ZCBaTeWdXMuiLxPdHRd6ctQNDeAHPFoDjyUPr+FRa5HxVlZVhA5Q5C4yYUlvrCXR7pRE/wkIGygEBTGD/O5Rh9jtuOpu9vmtBU337wo5BmhzBE7FPDDuu6XAzSnUc1xvDY6coky8RgX22EamP+TwhcPVKbZH1oQtVC50mI2cZNs6Wg0SjQAaL123Fj3rPyAOnTXawr5WAA4xw04EuxoUitHuzJx3PXXlr0BU7GJI3HE1s2MvdQ5fJRp2QzUsPlXhPeKlECkRSb6Kl8catSt7OoIHOYipteYKDhOUj7Uc05UqKSFpbO9Z/oBA5jhPP/c2iO/UrbcnhuAEnJKFrTT7LPAzwaXCF0UaFMG933XEnIAFEz+2jFnAU1Sq7QjMgZcK7Dm5oLNt02li2jk39U0hyVSXwVtepxF7m/7NTVt5KWMPOjKHwmGiZREkxdYtlwJ0ndBDqsheZqNNfyCaZowsGbYWgmB3T0nTECvfDZM9bg/JjyD0iWQ1bVnV5IXpGOg5agRqPZNMlLdpAkEIgVXhUSK6t8zPtYSZtP14igAbRWVJTkxOR8l7WJywV3mZu1xAhc5rF5RULF+cqHmSLG5A5wsAq2P9O+ccCC/RssCuuDmkh+TeJeoLPM85sB7oyKav4L0SDKTbv6NxgvsFaZx70TaN54IEECqzFI+ZZimS78CqVrOSkTJeKj/s7WvpROvMdmWwwbY+fDg4nNMo+VPIuD1cBrfhKbkTXru3r4C7ldnsX4U7TJGZso7WRWMELtaauzfAjYAudsL9p0JO3sd/ZiIyLhtRQQnEORyvFGnohqVeBFD00q6LEhMYrXlMNbC5xSLv7PItkNOrJhzQDXhcqOvsnrUnotXnks5CKz3qpW89zGNg0+8wjJ/S6btUNEGSYufS0hHdCEnCfTYiRLvuOaWF2JsweKnRMce/09lkD1eGfaNU4zS67k2DIHFMzssM+NzDHf+Z8QX9Kx8mL/9CwC06Xpq267cIqXuBJqAR1ZymmjRpxJ7a9PC80s7DJ5MfBCq7ICk8ClK/6CBQk/DIlSBjFnzaCNsyf4NV40Cn2EM3HwXVpd/3MlZe9HtY3/Kz+sTZrzqSfuiXK4aw5EzNkNpHJHLp9ZFLDfn4pJq7Xy0ceXf8hg+n45VXSU6wvFEzntv2H2F9o+u0j3mPCy86EkjdKoX6gyyxF5CZnJag1LqrUIAPGrRd+cKe9bHaUllavrAYC10TAxn/qEUP/OHwnB2MiWB4Lz4jSWo5ZrABP4xO4H7Fy91GThLYLy2KclPxz+hGgJD5sLoRXe/FwBAwV7ncxCohAPBqMoReg==
+        selected: false
+        status: Unchecked
+    encrypted_text: WWcsCNR03yq8bZBO5ao1XjDXlp4HeUogiU5dWELKVO/WujmCpq13a/5xi2yo1ocI1p1Zn6BROvzZpPK6eva1Olv+p+NvRkux9074fbQ5BBz1aF3HTdI0CZxeZcEw4jOPUl9eULnNsTb8BHJVIFoMxI0fHb8y2I/CQXkh+/lgJak=
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: answer.py
+    visible: true
+    placeholders:
+      - offset: 9
+        length: 29
+        placeholder_text: '# place report last line here'
+        initial_state:
+          length: 29
+          offset: 9
+        initialized_from_dependency: false
+        encrypted_possible_answer: utYWeyq9/zoeOU1118OdRUYI1D6z+jLKfzTgG3ucc34=
+        selected: false
+        status: Unchecked
+    encrypted_text: wvbLMBqX8Ek0TmfOBOU1/GHTTPaxaeJhJ5oQb3/+87wXStsEBcwOp/rbGZh9N2a3
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdbXN6MIrIDv1ixMKwe7gNNJsXfS7lfGS6bxWWf9we2kgiMxiBxdnVdzFmBjsKDzJjV7COfw42evcuHc0+z6Ary5gNRTw2d+8ngKgG4ItpHXZoaJbKOZnC0vFwagUEbhet43c98qKzyvs9ZTMZ9VWKlVyvL7sSETIbwgHoxsjdKSMf6oMQOmq9N4T2Qr1IL9B2YpUDA8o7i2PQuBjwE0HRvsQxuhBrxUbtRLg63Hy5HMV8/Rb5YBx9QIfWcBM+eGUrtVJIf+O2BoDJ0h4b8wKz41B/4TrDJ4q+6nEG3s8BSc6
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Unchecked
+record: -1

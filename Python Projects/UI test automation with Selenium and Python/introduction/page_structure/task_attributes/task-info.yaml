@@ -1,0 +1,21 @@
+type: edu
+custom_name: "task: attributes"
+files:
+  - name: task.py
+    visible: true
+    encrypted_text: fDhDOUc6Zybzv6goDZK2PDFkr4WBtegOk68aGWI3wvYiL97xYkLpqfnnvJCxBOXCAjH0+raAO02bNjEPSNhfSe4C8YzgQfISjJKJH4hxi3vvz/JAjXPXPM+xHyoEaMUTBjSokQPLtkps9mrCE2/cC5OWtweFtRmjbEAVoyc0XzVXivFC+QeG/4+NCjjJVSaDDMbd/BMVTqAGVPsqt47QcHoFLHYbtY10RPS+7dkQcsPiwfVpHM8QzWAa/GJLl2RXKZMKeUhYcUzO9TweptZC8hkhzi+GW/yjxRrJHnYnGp4Z1aCkh0KGKAj1aj0VAIUqlBXM6MccLFFa7OxWjMrxT4E8dTJppvwHoBDMnOvg+tP4NlukaFUihgTqm42RFoh9QmqfXy3BEtdKAMjSR22oOMrcf/O8lHJh8EapBMzsFi06uEL3nVOJgehQJRPp9UfoNaQVnDHzvZ8aRiRxEYsmqk0m2IXDDsdMxoSrH8KZCpmrfHtW12mCjURZkCn8hFA68VBXKhw93a/sLDb3P6rKFqc+mz4fiwrIAgpD60A1BRHINE297fmsfHn89gzOC4wgulgSOl8KaHFo5/uGLYI0Vic92qqK7pV66zNpduaN1GXSPt1NT8G8Ie7+sIDzaBcG
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YddD5vD39ZMTf1XUORg3lM05nlNBygI4AN1jHXa3ukTMNYEqnCA0LIROIr16nvK/KvwPtB0e0Exqod+pLN4zFuubuL31euRXQZQnZX1fP0cknSnS3bXyJPdv6ta0p+3q/NtxWgNOMxITuV5BkP3stIPSU3c6nr0Cf3sJUU0HqVmNfJNt59EYI5DEUxnso8HfI2l39jB96KkXMKXuLGTO7mEyMIdVoCAYHt3rqKiNobIt1eu5Sm/xvdcB4SycLaFI+6e/Z55QhkSsCMMrD6gpKEHoOFDEfbY58bCrm6HUfAnSCMzAr6g7hw4YhgRNW4GH/ySlsmwra7GpoweaRcSC7RQFiJF7oR0mTUU6+OghrAzq2ZVVvlNfm1U087JykUBpqt7h2uElA7DDbAjhy6TYOZavwO4BkaP0bSg8/VabNxqd4tVStVNaAxXI6YfFKBU2cnD8VqzVfgISrgfKQK41pmv0mjVfrJ6ij0K4EVmrjIZJNlLaHozjph9HznKKN0PLkXoufRB4blfCQrXUIkSQr5Kv/wTBrnD1viF4uXilkhTY7FPUuGvGSru9KHjEpyiAONKwO19VLzsEbVe+6sn6rNXX4WdjcLOUd90/7QVjzTg49nrXdwvSiqVGGLIx/WrbVpc1lg6wslBynf1obYeVr4uIz5m1c6bhKuMRGQSYAAgvc3iKvBL6kp90MH+n3kBHauwXVeVTmio3mvQ1yuX5bJfqWTy7CWSBoW0Cp8PYS/+oGUPdetu0ldghs3WXNEHC9S1BXv2rearkAGJjItt2WooUyMEJ1iQDDflq+2ABNIoXsYoPEUFndz/3Bm5yul4cKcLCHlrgaLUN74FuXi7F4TG47hxtNoBbMXw8seUlWTplfkOl5keFFsJ4SGqqnKTcTqQ==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Unchecked
+record: -1

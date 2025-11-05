@@ -1,0 +1,13 @@
+type: theory
+files:
+  - name: test_abs_project.py
+    visible: true
+    encrypted_text: BygUDSxzp2u6gerl88+mzSn9TRtVzOJ4Z3fq8SIh30yAzbpzKEbC5CxTLy3wG/Fnv3MQzRFpwzTxbNunL2FED9oepK5UfO/WlsrgPY+OhBcIjWMtAyzgBHY8dUaNcXXzfitLxbJWlRUKAUItIOzuMOa4+mw/IB1MlPJIAwxDnpWe9vOnRpBi+0cRUX0Ni4uFfSbzDf4yJbM/SaKnsukY3P03aVVIIuMGahNhmpIT5zf/EtUysGX8NILpdsGGcxo/g+wbKGFK0uh91nphlzp6VrHEqxEGccKNbaMleKtPNa04yUpyxVUOu+2lUgbuKeyheFx82mzO2aoPlmVTzLF6XmwaKs4kc3SCjpsuXPUxuoM=
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

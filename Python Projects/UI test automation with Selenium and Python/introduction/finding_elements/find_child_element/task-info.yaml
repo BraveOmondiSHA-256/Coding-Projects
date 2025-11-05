@@ -1,0 +1,32 @@
+type: edu
+custom_name: "task: finding child element"
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 18
+        length: 6
+        placeholder_text: '# TODO'
+        initial_state:
+          length: 6
+          offset: 18
+        initialized_from_dependency: false
+        encrypted_possible_answer: dIMOSY3bjMSaX0WyCOrA65/zzjUf8dakwyReACB9d3E=
+        selected: false
+        status: Unchecked
+    encrypted_text: w4zhXG9OQCEojZY3cjLVUG5z1uK3gmZcffyIm0koi/I=
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdUiE+sQRwyKJKyEiXpRs9Q4/maiy1ShNhA0CPa535VQOgxu+oR/1WBgPNnTeBVWIqHj70/G2sjG2WfI2CnJNv3/t9YQ0CRJCDnpihvTaOomFiEvi2pikgL+3214B4ajs6pTRchQwc3VlXtk52ZWzqE1tV53MQKUdSvEbjgUiLXFD2T7r9VoTTMof9IqVVdG2ptYCiR/yv6v0a/kVyy8MAjYYoqZ/gjHhNltXVRBq4daimGpZNVUUk4eGfPZDeVOdoSDp+KZvwqiBs1oesIsJR0Wk7lvmchOIkQsJL6HZ0IJkmkusF8DCELIKEs6TmXRy26PR59gtA3pOqLDLFqA1eiJ2HETFFiZNtVdvIUwD+kr0qrbSNFTUrY7XDjQD3KDfuAqXSdgRhJ0rtA31FP1Q5ITN4HuYyETR+IY8yddUZUGST1ONKp1yg+AJKdjIJ/WhVbp/iR29QENmAa5hQvvju0ddc4VfdXlY+C5YOcYP2MSI+bNaLpdGHkv55d1FLNcpm7B5M6ELnm1yIunkEFBzk/OgacRvPDoQRRW7B9fdFdBCV4Kansq1J0X3jVJ5qj7U4GEutZHZ2VEUFZWA9zKxTI235+agDvWGTR6cFU9o/6pbdBnnHmhxnQXM6gPGCpwkA9HOKYa7QVj9I+OSEhpaXB/e1KJMqkvxm8PT7TVLId9heQQbt+rPRKopp5JzuA4Iupx0fZKmlzq/gAyL1R7vn1fruLb0Bah9igLGE2Pj4fyF1EJk4RR5bYBUtsJHzMK7V3Xm7mJflUnRcGNz6gmgYSZJHH6FJ+mnFv8qJr3U+Z70VvpV5JlgiStms7AMLHuPxdTsNw1Bc4HFmBTLH7QJoCoVlN2xYJQy6AK8RR6CIXDRNt4aeGaJNBzmivT8hSLaqdqkFToM1mK7IXHrvhnwx82LU6W16+I60eopFRuqZbLDtJyIEWXeM2QSqg9SaFt7BETK8JTNLPA/cvbF/XOeX4UMwOru8Ht+WGdhuTiR2B/h/g/hu8t6v+duh4x/57tk0RUgAeppP9V3PsxmIr2F2dctFc+k8MevqN4FYHhbKFWA+2qhkS7fJt1KUBAEylyx6A==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,13 @@
+type: theory
+files:
+  - name: main.py
+    visible: true
+    encrypted_text: NdaH6Nqgfj1hrbioxlG9NU+mGYD0mCt55wZ02KMg/AvrTNu8O6v1fJ8bUPyxVpbDJXA8xPkWsh34r6bDU+PUBpQWngV13eph9UOVGzwCkWx+hpXFfkevvBMpiZXizX57klolW9Vald18Y6dyI9JyVYyj3zuEYlDFvSlhnlfnuq65Jmdk9yPrOSuSGcdXfQ7fBEOyt8PQNVITtZEww9IbwJu2GG2inklDMbEU0V2axLIyBhD8t7/8yUhZxUiNudUQUq38H/ND5hBjGLJRwMB+DzWo3v9/WJYv2L/VEiu43jixQiErpRHB6pafSF6YTl85FduQ+sag5kI94ywCUihxe+GWdlRT5W8h+y6NWUX4xAordQLGOyqaTq8BJ8HMUtalSSAcu1t8lKWtGifPqnq1NMVJJVci8xLh6KPMmfNvRdRy9uodCT5Pk6ZeNUJJn4j7CElrPY25NdtlyC3S+U4lAMgV0zAZHGSiczxMnlTfpy2GXC2eezMgVbxJFYjQHW65M859IaeD6n7GtwJdMnJc/SlYmWNCFSdrh3sJrqq7m9LNOG4kUEMP2K79a6EgRb+i3PSgtqmJELqhesMNNV4U/7ez7t7chUtvVxGgHtFZgyANXSE9FQQArv8+OgEt8fE65sDQjn1KAboRn9uHIp7JYkPEQ9c3qPhmWkOhL4mLy/WUUWo1ixAlB6OtRrXQOV/AxM++w4g/qBAFE7LQoTaBiJqk4LFiwSpVXIk+JN32xemm7Y1Kw7gvbXO+EeIonKJkPRXOPk5F85S79gAs5OFj8Qrin5APr/GNqnmMWiQ4nLXojHPV5Iq7JvY7sxUp13GW6LgXVy0/Y7wyWxylb8XLCVj4vRSol+T7Vc64NYmnTN6Nxx8DdC0RgiNSM5voASPhCEF+DKpcvnQSE7EwU1eznw==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

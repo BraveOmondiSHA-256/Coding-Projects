@@ -1,0 +1,14 @@
+type: theory
+custom_name: xfail - expecting tests to fail
+files:
+  - name: test_fixture10.py
+    visible: true
+    encrypted_text: zNVfaSK32bKPs+kZpo/L8IN/74zCwyjQAvYLyejQ3vezi/1vLCfwrUHcKU+dalehO1CEyb4NC3cUn8x0K6IpnzNgmdAKMtmZ6MwuzHchV/PgGfhkHIJsIYyheKVxOIuG7+TXztDk2Ad+wvnn6cGODViWYiDTPBnhQgu59IeoIUk0afxIu8IrdidfOJvAiHDzjceHYkag72tZlFlFmV206Zs5dOZuLmCiwJKCKSWzi7H/WjIS4SmNRIMtgTsi/mcjqNMcwWyyZZoWdlqSDnxrWWbTDp/odXFFzGyIhy0uFqDuJgrRnE3bGgicb+inmb4JfGOrRGRPGQf01Ifeghk0NSBQ9GX60Z8iC5H6I7yakO5EcI4fU9SyH/1y4TAZQ0ZgR+NhC+iv5Dv0PVkfrypXdq39lp2Qf+AbsilTAl0vRE4ln8FDMQCCokdXJ1nsEWa5i1L4dLLPwrM34dd+O1TdvBJRepSi6R957rS/qopl85x4taPxioTeBj5K2+BscC1FPerlN3ChjLoQbXOw5iLOGA9L9C4Ku84n+3+UCscqJPabd6duMsAAW741LkNwUq56y990SP/8TGf9TqvFZjbyz2Ds/bnTj/eqWi9yZUnid9HGAm0dpmY3QozCNeBuVoElrW8+33hkycPYJGzN4cKk04Es7ggbZ2dERXiRyusfMts7qu5b6qXF4naBL0iZqZZNyB86uzD8ujfkyJlJj/qiTR/VzkmCabyWA5YHZbfmWAYmZmF+nrZYVn9aZsfWe7gvqRXkIbNUh/opC0/bTG5C/Y9zxr4q9ac08BN+/exWUGxsyfA83IkUNAnI8eXDlUXGApOuiehxNxkW3/OYTGRpXMHt/Z7QdWLK8G9ZwNjaAuAcmhBk+qFvyO7URKYXvminuFZigb4fJzALApU19Bc2fEWBAx+ftBHPiqpin/9Nb5izYBo26TiDToDaUHEZUPvbze25OrxvJOvNUz2io4VI6JLpG8ovYhywZm+sY677tFExRYNRjezMyBbHXXvZ43ohcmhWQ/uX/ub1e780CV5dma9U843PXmF8FFOtub76ZXhP5tFkUYtpHkDVnSqn9nxa90mxcU6NwsS1/cOnsxIq1nV49lqTe4faYl0PCkzEjNebXiwq4DDIatdzXNHAlnh54CTL5WVB5yZgONBdi1uRFw==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

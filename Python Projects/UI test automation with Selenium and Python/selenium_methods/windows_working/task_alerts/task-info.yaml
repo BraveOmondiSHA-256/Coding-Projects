@@ -1,0 +1,32 @@
+type: edu
+custom_name: "task: working with alerts"
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 140
+        length: 6
+        placeholder_text: '# TODO'
+        initial_state:
+          length: 6
+          offset: 140
+        initialized_from_dependency: false
+        encrypted_possible_answer: hb7JL/mDImLmvZIXUdDJ4Ej0wbwu2bbdXYVTVvLGJo/rUgQXxokDI647gmVqb+EALHnHF6mDI35mLt/UrDU0sKAGwXqMqMQ3EngQOmdG9NF7MeyfRaY1UCo0x5gvnPOL3SPQl/5dQyqGBIJbw4VLZOdfGgXASP3XuNOsHbZfulycbbv8ExVEIL8iMuLuMgqeSh0m7ZW0M5Lim9j343QD5ou1A1lWyNuHbydBL7xfpltexxYRmzc2NYMFY/XRCOUfaTj30P5SPvDt1saBCEc0tIeIUv/4+Wor2kKXDZ/O1FUh8Wzec1BsSvoh0Mx+ycAkXfC0iYsP50/YNO85qqAsbwru0GpR+5CrS0d63LsXylk9Sm3ezH27gTJW/rgGzQu82XLux/2b33fRUVF6jqDvXp5d5v3Hd151xq64SJl2jrM1X+GgnY3ZC8SUifEUm+YXHR70ly/3m3ajccpRrSSJ9DyR+98POKvhjAt98YzJjjA6BYMhKn3wyK7S3R9S8kmHpuKYd73w9CZgU9GepNKN8+l5yFmlxcw13FRsJ/fz4/8=
+        selected: false
+        status: Unchecked
+    encrypted_text: pSYVB5RdRyIpVDpfckT2cyJ6KxFKCi1a0OxU/SSvDah7IX1q++eSjQTRVLraWTt/joztssfEjEswE3cMEsZxD66pd2FAK1i2uqvZWL8cP1QyQXR0Nn0g5fUArdjcZZvAYbAR0R2r9RUUlOM3jbGCwZGLUV5v5+mSGMN9e6L4S/ussveqz5ZgfaGsYzqybeGNvflRfS68EMq3fuESZhbHMQ==
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdUuVRut+5Ep4khfbZ53Ve6VBBGXcrS1IHvG6CVxnKwOU3CMeEVzpyIjgYYOlsnZ0XOCnL35CIPANKTDsw7HPUZ6jOSG4x+pCuXOcA83FZqmliJSF2SJIMRr8n4sTRdlovo+xer8Q5gcVhUPxgmq1iCyY6+hQeepxLT/T5NkvzvuUI52KgcBVBf//LXXdqX4DiWlXQ//LG4aABvTk/k7HMuuehn0uXqmv85M6mH1eCY3vpdrZRiafX43dDolssIK7OUjkOGTHTt9t4BlfLP3Y5RVoOMRZKyumDOqbCWM3qtI0XWc+Qj/2fNhIeyvbPnRg0HQWLTE+is0dIZCTtrlJNotSTrpKkqBfrlS36iQ3N4SQJacoccvigAb25SVu0EHN97Zt8CJM6VSCTNWfPG83o06j4oAX4OftsbsSy0qkoqd3SMncS1SraJ3os18L5VSKJBCYtSuh2Em7s2DmqNKiPr2j+zFr6dflu83JL6Bil5gBwIE5x55d97kT7r9q6IhdVHTaxK6NzNdqlWtuN5PmS/L46UJYqnnxfxto4ww5hak1aJWhNxAdgzh+n+C38CbuIsDJFELXWTKCrNuMxB95PoAH52f4XRngV79sjB36dc8HQAQotLK1O9f6/1thjiGac4CtIFwb887FxJTlnxQwu+0BeXCVwB/LdW0VLk/D5JcTzBEwsup7jBsyDzE/FWwZxOOwC1wDXNUHpUyreVtACkxO0nnwSHrLoY5bqgMsfrig34/tb4aT3fJD8Q7RryL+dJ6v/sqznzAzZ4b/R/emwVI9cD/+IBJMpQ0Xdlr+B3aNXnkjmk4EPI8ucO3ngkLsOHR3krefXmquImBjLBqFSVXzeH4T5a6y0FZ5xNx+44NklmdQW0EtSsGYs+Aw6Jes3cCrQK7C56TTG1oxDH3GQntOMaNRsu0GxIwDTC/xXK5GrObvzJEKN6WuNIUl3WedQUxURdee23QfWb3Te5WVywdFW97jIGH1cPlrB+zmXr2wpo3dibYHl+iUULWMgl9dqPBcVURyE1wigFrtd+cl61l9l31Y9+bk8sn/Zy5KevAPLWECi1z9biSjrDUZArfaezcBkkq1d1rJNpDa/wBg0LzMAKz60qGcZguhYFQv8viVlTSpWNQBL1YAgMK7pAjOjv2GwEMB5lW699UkIJC7SxNQM2myzG83NCE5MK1M14g9zHGv9HQzUq/T+Qq161/abj+CItTmZfrVog0Egt5r8V6rBmd69UTZqbmQwB0KMjXvWDdI/bDlG9hID1utOQ5D6AjzBNlCfGFNYNjd/nr+m+Nz4KZgi8TJZQzk0C4GhlzYChP8w0kzJearNmQCrAqvk4FDp/L58VSO//DQYv1BeS9M1NOgF5IK2FHhm3gVeb3iKCBlNmj8rN+9ofDPWizZ2wdU48zB8Jl/oy4sIAM8DrK+zkyXfxavl1LqprsAycribQUVtM8vE0BDV9BYv3t1DnfX1H1SC7GNAcSPqzuw3z7lQbo8mK++cBaFKqrw/sY8M3xySKQN28BB+pEKp0pki7aikjSMa3jTsA2IaDj1cyk=
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Unchecked
+record: -1

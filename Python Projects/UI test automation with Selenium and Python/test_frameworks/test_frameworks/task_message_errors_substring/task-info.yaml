@@ -1,0 +1,32 @@
+type: edu
+custom_name: "task: correct error messages with substrings"
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 48
+        length: 6
+        placeholder_text: '# TODO'
+        initial_state:
+          length: 6
+          offset: 48
+        initialized_from_dependency: false
+        encrypted_possible_answer: GBzavFBVOFYGd7452gn3Lqm02kkamYGTlJyf9YhIf5LTfFR7eKtrXuA2odyICXP0xDsErc+FwtfOu8GRlCa80m5PLrLZwYBguxe+CRiZ8CX3yH/RQ4MsMvX4Xgx+I1Xb
+        selected: false
+        status: Unchecked
+    encrypted_text: H/ulVHMLQ+3rD8KirodglcqkMPZMeMZldmefscbuK2W+TdTqSB+xkmNSxfnWfsdrG+ehNOVptTPk59dRVSetSA==
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdbXN6MIrIDv1ixMKwe7gNNJsXfS7lfGS6bxWWf9we2kgL3tNLTs2PX+G7Yi5ey7B984iVo5eLoaTnMxkSN6v46kfrQMy5Mm/BQ31F5MBpeBegUKt+W1ExhS6wufvvFvE49auN/huw77fMo5Hz/mIUDMzdfcbb5YOlJabVUuYTO7DU2TOVIEmjb8LHoPocW8eYY8+eqZSaEn6mrW5WndiFw+lRVEZtMn+C+sdO/RUXhwYIO9dVCuhmaMbLHRZ2ORVkTLQIEldpjch5BmIJS/0dcwcc/BrWQQXxmYNCGtH1Vo+fm8GFUtXKIy/GPE3ClHNgg3L7/I/5CykvFoRd4GYiPoxWt08Cd5RaIGNN7Khfb4qIr7evay6+LADjNRwrn7eRgzFBoBR3O23a23ZI04L4pI5l6ZEmht7MJ82NW5oUM5Jtym0NfMhpv/XCTlDAdyaMTTmQfKaPWJxVImhyea93TBtDTxGymw0A4LdxvtgtSykdUjEVbydmZzUy+i9xvXxwCcBktf8c7ww3Q9t3Zb4wWxIMUXylg0VljMtbyxjDpx4338r8H3dXa2mxUGVFBd4nXgWmhQJAHkyH5STa1ihd8vWxFc+PfZEFlCiAseLKx616KeWwraBOCKGTfqTjE9d/xNS/xGXBLKfTh+iXFux7fJ6Fg/Q0UXPvmXpETsRZQyizIHsgUyOLu8BLRTZ+AMCxbKp8i9yr0+6D9s+qRD1xAkylPnAt5cpeGFzA6fbJJwGvHpuEsg4KlEs65ITkuLsclplZ7ntq/PnNNY6YumRkVAu46Ch/jM8Tv/qS9Jo/tbvvPDQH6+V6CY/zyABWcPLhqAXsPl4sXp8vyZkyB7tps4GlTfGjOVbaYgTv+RN6qfKxp1L15UZhxnOhFkkaydmrUUjEE12YE7PAM+9JBo1QBWHIyXc376TPe0cTK1cbE6joq+Zz4bg/lfdr/SyvHBQgCMr6YvkmgAd2lSOtn1Fuuf8j2MAX+9jRGgm2FPbf8JZPpwDBjBFWYgVwbMYWRE+jW5gPTt1SElIv2kIslPzGDeO8F9JNRGQ5gDJWWibUUS1x8Bhalv9vfmGDqhjYf9v0526/vDTohVKBijvXOKHgJH2ZMh17lbLutnT6YYUCH34G0AY5oJTHMaN+HlIs8uggWVZf6uPGauL+GWIngM2uvaa4aBmogIKSISL7F7VLGc/7gXrSZVMi4JCdu9KsIbaKgT73/0YI8+SQnhfzBmcknlQRtyVogvO9/4ISC/+To+F6L9zr48l1xCbk62yYmp0Tf89fsUFgw6cQiyuqMCzdZw=
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Unchecked
+record: -1

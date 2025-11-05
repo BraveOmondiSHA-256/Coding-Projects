@@ -1,0 +1,61 @@
+type: edu
+files:
+  - name: test_items.py
+    visible: true
+    placeholders:
+      - offset: 223
+        length: 6
+        placeholder_text: '# TODO'
+        initial_state:
+          length: 6
+          offset: 223
+        initialized_from_dependency: false
+        encrypted_possible_answer: hb7JL/mDImLmvZIXUdDJ4Ej0wbwu2bbdXYVTVvLGJo/rUgQXxokDI647gmVqb+EA28AMNmSkNRrSVgdiymY9KThQueciAk+7UuXFfR0asGeFWX0Dt1qMrlME9aP09odvnT6C4d8gFwhO0ZAre45JPcgZWspgbwg/yCHBHE6m34kp39P5BduAQ3K0Wx5PdO2LYUcKQOvg3NXLiCPzt51L+Q==
+        selected: false
+        status: Unchecked
+    encrypted_text: zNVfaSK32bKPs+kZpo/L8Iaywyj4VNwz4lwT/wiiv+TociSbwkJ3u74kiluh6dk3k4xQUUlR1Wg29Vo6k7KpB0gvM/f0QEc1WzYEvFoo+IXvdRJMRm11c+2gsZJYLSX4zBLRt0FkpmGnlltsoa8j3ULk9Qa3u/WQkqTLwxBNbgCdlJculQAtOwXemT3n6uvp4yL5KqWWvp5IiLPQcpXhFNYFYlGYsKSvdMnLOMVgLNP+jeQE6WJmE1w01bBc5HSxNHrDqKpOxN6/TgqkQf9wrMoG4IwBpbIRCeeAXMqDXJnDu5SfqHf0ZmjV96opOcX0
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: lFHY3FQvVnYAEBl1EjB3dn17AqD+yJJMGqx2njZyrzQYH+Jz1oVHnHqkv8gZEHZWzvfKythNmcKbFM0fZBYrL3AyeaW+q1Wcal1SetRxI/V7dEks8sR9e3ObxYBFgGAhD9M5GuR7AStX55Mz8lzRJFA0OfBXsy2C33QPPuNbUvXnjxeasPf3QsTJ4pX1lba7+9r5hrHIB0DgZbt789xs5FfFbpOsK73WpvwcT9wlXLkOMdLl5+mfSuSWtQcUOJyhtDxmA7MrAXkSoIEbCvO1IgxIKTh+eXVzAZtm8c6DlnhkuNREXElKnod4RbUQ9VE0Xsi0leAA1kdx7NC+mnQFS8Qr7FIoCUUtFdavzTOPXMJuyq9/FScgUIV2PKCjgK/4WLvYini9l3BdA2utnT4shaIMEP8KoqvOjCFCvhT3qFqH8vbU8wlKW/9+kk13l8dYJBo8ZlQTJZMj2EYrxdeSFUgZy9CNqR0JqvUjfD6hW26Do+MsRzTWIB4m6qW93G6F/tk5sW6hueORBmfk2JjSBR8mou0sRJQs7gVpCdBRChI5FpH4+VWPigZEorBwF9wdmUdUun5ROil1x0d/jL721A==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: conftest.py
+    visible: false
+    placeholders:
+      - offset: 101
+        length: 40
+        placeholder_text: '# TODO - add parameters for command-line'
+        initial_state:
+          length: 40
+          offset: 101
+        initialized_from_dependency: false
+        encrypted_possible_answer: DqtrH3dU2K2dcYRwDD4i1+nKC77DxwrFcf+d2I7UI/spPRo9oABphBra6VuIqv5n0VteIt9V/82fgxJsmxsEztRzNY9jlfjYqVhKgZiSFT+XWq30WmJT/IuRmUqvaA8oipwi6xGwVutGo8cuWUFI2YMXigpNjlktZcvGxeEUwnZNyh8B7/XPaxoQMH3FSYAnwq7BKdHRPVDvm4tvyKxyjzV8DZ7y3fcoxJHeLA1VAv7/DG9YjVcRbOQPyoEXjYKlzi1Uy/s9VcpL+j/zrEe3YA4OD5WjQGxgYhbmAgefzy2UZzTzh6hk72wyjTfEPE0jHol5KWBTcoZmZLMNEZvZF401HEIzX1l4+GM5RhwxpMRYiWaxa+rPjFgVyO8XmPxU
+        selected: false
+        status: Unchecked
+      - offset: 144
+        length: 84
+        placeholder_text: "# TODO - add browser fixture, that starts browser with options\
+      \ got from command-line"
+        initial_state:
+          length: 84
+          offset: 144
+        initialized_from_dependency: false
+        encrypted_possible_answer: 3LvStb7JDGtIZwuIlNMtbea8maA6lbxTk8mm2mNIx/cmOuebxPFkmncywnheT9MruUNA1Uxny9Vk1BKCKMB2mYwQHLxmPN80k8r8nGSgZdaq8rQHLvHQQLYrVmfeyzvz9gaOrc4y5mqnVej0ugqTXcx6nGRia3PzQvdxyy6HzmW7UAwI/36EJYr4iLHjdOmBYkfPFkDoKW57f78vZHpJUQ7KQAjdOLbOMlJWWeMu7uC8DftPFsyNxT9mRIpe72fGH3WKWAQOOddlEsCRtS1p5qwC9ohLOyByLB7lFxhTYBy0ZEPOLisvw0dRVhPoMtAPnN3HeiIRvdD2LZcV8/Gu1gNl/CaS/vSNLYJq62JMaT8B6ED9qqy9z6ZETZcFKIFy0ZYAR1wqwqvf+6VDZebLkD5GkYYtPh0QNkowMwR/1xhm7Mb1PH8z8aW6GnLcvsm6pKdFg0yaBFxeZBSyXioagOs4UZ/8RWDRx40FP3YbY5ZiryryfAUYgZUhS2QhpAmBaDTKte7O6JBCc+BVhu1H8p1tECNVW2vSjPZrZ3QpM9r3X/rxP5+mFieyY/hG2j8b7inMSYMY9v2m0AEEbr211iiwU8nrgA4DezWPf2odUJwBdCR/+4lOLnWzTPUvl4Cvlbg8KmKtnavFzcZqp/j30B1Rg+bRzHS7FdLp0O27GAwBI/Ej9BvrU0JgpBTBYlR0GLSWkrRjK8rqs4uuImbTeW4mTk0eemSiSSjJ8dRQkRuX9MG8C8MGwVLwM9XfxEofC2i77/oZbd4HmTQGNQIrpccDcRJgGa8gpMijNCpaeofbkxjyUVy/5hrNbkLy0pcXKSbD6FiAnlYM0aFEupuTt1wZ1DHcqQcJQbELHzkuDLqze4f3tvbaoe0LxH9BhT6kL0SYNbm3QpFJow93CnQPolR1Z401iruDs8yFfQ3TB5ZssQ/AfU+F9zmoTe6GBJfZEPXHi24Xw37T31NzHFriuVnXIpn5r0YxPVQm3Kck72dv1ZmxhwsZF9xXkBJLpKWSKvTACcdBfO6dGf2l/Om4O6h7mB9Ql3FyUUoH8uOFsPUahcJ3gJ55twTZumeNkm9Aaq7b21UOSavIkvPSwiVZ51RhR37q90GqD947pzyJv1J3PoeRmsw8VAgR0GvvpgPx1scKGoGzbycimoY6PkKoTBS3vB2FriI5SggEPB80sqs=
+        selected: false
+        status: Unchecked
+    encrypted_text: zNVfaSK32bKPs+kZpo/L8IN/74zCwyjQAvYLyejQ3vezi/1vLCfwrUHcKU+dalehO1CEyb4NC3cUn8x0K6Ipnz1SzUSJHQfslhkFNC6uiBioGIlowBMbkFI2AjSIOUIjaRjYemFJpa+AWuh91RZlmYF6iRKR0OTRn7x49bP1k0/vBCy9MC0yx5WiSQat22i/XDsSyzrVJkicMG828wte38oWvzmfbvAxYlSzAuZ2IzYL8F27jjBkyF+EFfu4dr3Gjg0zR/GSGhO1x7JJPJlmYhGasheswCCjUgCmNZXOpdKE+e8GibWnBKKqow0gdwUR
+    learner_created: false
+  - name: test_items_hidden.py
+    visible: false
+    encrypted_text: s3mz2tUbQZ59290xImRoLmXkvF/SLfuExozUzxKn9Mfd926k3yUCZ3IgPJTN9MvsmWsXf2kfu1CXTtlTX3LAAGOS3HSVskJR0Rk3wr7QkHJetXkUanxErUPOkYuvaATv0Jd3b93KLe71A3JQ6f2t5X2OQJNM5Ps6Tc5PnIKi8MW1raD28I1KFAETMAFThqwFF22fAfAy/6UJaxJLfMKeax83OetdXnlZOtAecHN8pKATLYgnhrTFv4bUYW6M6syDKrU31OylyGhYFq82GqMskooVXWSOTvGSzimD7sn/S0wz41rnjS85NZbdTHVoGTIMHWzWbDgfXdavhkcT1e5YDkZb0L7/XE/an+rK5hNUOrQ1/W5igdJMC69M+gGhcfyq2ovPL3ng08DJxJ52qIFGEzhvhH6mrH6RSzdy8lV+vbYWZMSf/TRT5UrYUyPiqgj+oRJChNg3QBBuTZ40LLaaRsp2K+Bn5cvGb2tcwumoUMyebZyDS/JS37tFHfYAqoMEIIhR8Qex3rdz1z0TXTdz21AV2d5KAdNrRHZINtli7I6PERANMn+00G9eJI5p3d+KaclR0LNfgGsngrMlSL2+FhVq9ZPZiN+/fW6yTm835C/uqB+vhGzb5h0EIfGAI9WGPFjJQXqiBuJ+QhZhpt5vUXoSBnGSJiMS+dpAVGofoBy1on0OrzMWtqf0k42jHYalUaM/fZERbZNlFEKNjOJldxlrb1RHIRp/NhPC3tOBVs8hysN8Vp5VRf9FlpiYgE3PFSxIazPnGV5c1t/mONq17BYpyM9CFJGEmsm2rxZKCcEOVheRxuLnXpbYTYGY/b//erfLs6jqXsk9KTxcTeyS3gUpTY5e5wnNN3EKXQ83jK1X3kRC+exdCERbljTmvK7hS2Oqz9lK6CMTYY8Fb9gAvitjoWx/YijikiaMZlaxoEs=
+    learner_created: false
+status: Unchecked
+record: -1

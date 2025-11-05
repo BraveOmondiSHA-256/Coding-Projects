@@ -1,0 +1,42 @@
+type: edu
+custom_name: "task: assertion in pytest"
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 234
+        length: 6
+        placeholder_text: '# TODO'
+        initial_state:
+          length: 6
+          offset: 234
+        initialized_from_dependency: false
+        encrypted_possible_answer: i5kfDl2xqB8j0QWm1mC9EnbYCxt2c3fpjZUKRBW5bXUDsbH9T/2koKLleUrHgVkDXOJvOF4XaS4rLsWnE8yqR0Nbjhox9hExIOGNL/VrK6FSyjMsylZNsiDLcjH7/05Xk15EXGf2LuJRn7wqKyw2nrrUxmqskxjNOjVwfJkK3iuCAsYCX6WhbSzR5AesF2wGJXjPOfdgOWH4+iKZL1O8uIvoSDxJqtfmmUg0jWpb9+JgblUXa1xKvUkjIyVluLLQvo7m0gMRTojSkkk6+lcO7nBa6mIfeI1gML2VYtfUS3EMjig9aypwxx9kdr+VNckWBh1+7zLnK8/6v4XnnaPNMLQsrNeVZjJDEqIMhL4Qmh/AQeujaeuvHjBmOexxncvfGcAEplI7Wih94CBCHr+n6xidDG5IHnlSwbkELVcYBn+8TgIvQU0orJE/cPRlc5rPMANccnlGQXKpBM5CIHS+KETMoEcsjViFlxz3GTKSJpGHzTlY5t4oTmkN63joU1CX+LnC6ttG7s8Pu8WzQu81/PdbWbDPsqILnBDw4bwE4zk=
+        selected: false
+        status: Unchecked
+      - offset: 303
+        length: 6
+        placeholder_text: '# TODO'
+        initial_state:
+          length: 6
+          offset: 303
+        initialized_from_dependency: false
+        encrypted_possible_answer: B4bHxeAEkWlyoDivkCJRNfvd6SUWDOK7Ad/jFKgXUEig5RnuTRQOu/O8bURe1zxNkKluC00WdGbWN57qztTBgFkb99UnMl19SEvyWcg118APeHyRcBWT8cZk3GxKLdEDr+u1Lfc/eGG8pFLhopW/QBluf1gHGPTyayfz4dLDBA0tmtlai7lngwFvIFGr8UtkajzkuH5MXnxbCzK2ygsOHvfs93rr5RJ0MSTA7Qk7M05xRITqcSSv+ON7OrjJqTBsJagRGK7NRCp8hNPwyNG85s1oLPIbqe9tyFo4JBoSFMRVYV1kTo+cDbRKeOTHqMUFFjxlTLIq3xPmpMiRyyt6XIIWWw7ZNOFNjpocZnMPa1fKS2efCVQaIwi3NFU1Mtn5Vdilfg01gGeBfGars4GH+FXAQW2lpykuIptibNyKUUdkV4BlgBadrPOBaXuL8ySRg37sTR7HkxMBcXJdE6JWo9ZWfHaYJ92su/Y7YEjsGmc4W7s/G9c6YraqkDwoTJCpLn12GQdPY/v957R5VIyG20t9fFOeikPKrvtu55qSjkTBV0GxN8iUwF4KR4qLgnJmV0kkOICGobNldxTrdXcurkmKINlhThxm6niyztZ+iEkCqdGh7jkbOxuWqsTp7AJrqaI0a+oanyM3Z1czgu1s2A==
+        selected: false
+        status: Unchecked
+    encrypted_text: px8RS4QVaK1Jup1W0BAh9E2cCkXfVgmYqkF5U14Uv4oZ5YiApNVtV73nvNAkA1sYBQS1DFprBjzfCJ+eVksysw54+aM2+UnHIIOVZMlonfreETsRIs5/IhN++BDjbpq57ujTq7uYOapl+fmg04BHILjIQuT7XctNP/0iJzfNeoxanhF9LEmyoNGejuzehsMlOXyyab808L74EmXHLHv4QojsgesNnfU/MgUj3Svz31akhRmCJ878iXLvf11RnsBdrskbtkMtu/DSi6mE8izoGuMAz6E8i7H9nKVDKu5FY5GQ24omw1WBHCMQm3lOasmF9/YllpM6pQudVgawJmZOSJvxNMMO5tSP9LGdJZgf0f9DHgAiadW8VhZMNN/S9sSsJCtRYc602MJCn8wP7E2G0lhZZbah6+9n0yuogL/LzAs=
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdRUEtWshz2P3gHoWvXBk6zG4VFOhPAy0J2muU4nI2FYYnq0/jyrb30lla33+ga0QrVb5eWH8ZlKGve+M68H+T0xqLfCPuBVMlhN8WtqmtMMsuk4t8cp81BwpgxMTWt2IQyQVrGYGAH+ZyeQOjJwjfQhjzPA1ZP+JIAWSzDJ9UKyvYppBzF/V4vaovPLhE5ElzpE2cgRENMHjUrYcvMsbsWHquj213NZxDnoO622v6A1O5vxhlU/bBn5SS7i1pXjy6c/KurJBK/QSnoczxtzNqmqKrU7aunbM40DEJ4BZCq5S5GeUvrzUdyTCI54nLnXzCJ8h76FtIS+VJAp8Ok7r1zloTsJuS9A6y6l7UxXDbm7xiIgkndgcB/hbG+KhaWgisF8asg3+0YEL2QtP1moN13c+UdYkng0q3n65zWAbOeriLY8YGvX/jWKV7cDZQRqHJM3y0KJg7wsBNwB3/esFnI4uLXRy151uZIc6l2bdli6VlW9rPZZndiCMFQ1ZOxIH013+/aNLEC7/nF8EZ9cFDZtcB08E+yacTtCk7nvQckjuK2l0LGho42lHGgF8WIfrGOa4JbHHsSmUJ4BXOXtVSV/r7cj8ou843FGSacEHdWkc0X8jqYptbGbubvUifQ0GmhBwgLnQEL3ys6oUm2vjCy5zrsDit2fl2beFO4BC3WHLu7StfP+s4yU7b0O6+1jyAso+Hbzo6wCFV1MbPP5S0OpgzpooKHC0HQdmo/lyFGO0LQKTBvTqTgvmOO9DJr73gQcEFNPAL6TjqndS26Qk2zttWruiN0wpJ3AQZGeC10DRIJnP+O57V82/3Q9Net7wInCT+M2tDTJfXbYAZX8weG6wB1WWKk52jin5mgfcy7BpyT2iJtEgODSvqd6//KyAwqhFPvZz9iYkD0Aqe+7+oPlxnBdERBThzkDwA8bMfZS6ow+otpLxIkcew95ObGpeaf6DnkqGyhBdP5Q6yga5XEYpp/+Qx6NgcyCnAp2SkW6NYyiguPfxJQothY/0bS6vwc6w/wytQHBSHOVpSzWYGqqI3/EivQiKPUKRZFzrFFWeWHPf2aFkfHyAVVPLZyBeAIkm4EgEq15QFh8vrXLQMKzYwGprOYkSQrhgKhcbaD5F4rG2R94NtSdSDr4AbG8/0HGz/bc7LcCgwI6osTrp1fJesPA07zsmCOHVe0YwTp9WRwivTn/rJ1G1eqRagAB4xmtztbi7OkbGyRADs8/MUbWNdFsKG0R+wCJ+RV6LAG8ZuNo0ng0Fpx+p8qFQzHNvBZWvf1Zku9dU3a95+BM4yXcEz1skKWpNALOnDb9Gmm4RTV/4QSF6qao5D46LVGuGuqfdYxDt9D8jBTPX9Nrxo2PyKUMMnXdYqS419NRJBmCILmdet7YFy0hiF4jPEadJwV6ZCchUNiPNBS5GVuQPa1AojsY0CsFWYrG5RcFviNdL
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Unchecked
+record: -1

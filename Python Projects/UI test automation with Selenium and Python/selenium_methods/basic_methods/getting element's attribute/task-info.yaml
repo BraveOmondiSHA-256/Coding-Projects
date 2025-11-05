@@ -1,0 +1,13 @@
+type: theory
+files:
+  - name: main.py
+    visible: true
+    encrypted_text: WWcsCNR03yq8bZBO5ao1XgeAAadWiA+Km6/f03FjVsA5gIB+9eEwkQyCdTzUU4hBtOnYym8BkX53LySErPgpqPqN/+slLuQ+2Mrtbblm+D+TOuNa0T9kbJjmFwiNAjR10x9jO3maoQfr7PE9JyiIPRHAIC6QRpceDPBrKPv15+j1zggwFQ/YLRNgabR+bEGw1spnHSdaUHc3mGV3Tl5lfKmGktjH7ue5nCA5ls36JUNffckVG7FiIugGCmxHhD+a6bmQHQME0cVmoME5GM9iyXRZCOPwbW0Mny8SKHhYYy86FYzKMD5oXtTh8YNT25UpTF0nLc7I+IQ5aUR8Ef2WI515ffDKFSwN8N6pf/5fuc1NPIynsZ9/a89idZqbS1vAV/J0Gl1P9j5aKuoe5tfJZ3eRbGKVkY3uZmxX1lvNWMt7A8J+9JEx7IQwHl8SsuL8XgJC4g+Bhj9c/n0wgotSn7RP3MnVT6M0uNLdJEdwW+qyLwhah6CyOfc8ugkAATvenR/EtJz9+SV/oo9bk8Dy6UzAgttC9s7ai1YnnnKP4Wk=
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

@@ -1,0 +1,45 @@
+<h2>Testing: automated vs. manual</h2>
+
+<p>To start writing good automated tests, you need to clearly understand the pros and cons of both automated and manual testing.</p>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width:700px">
+	<thead>
+		<tr>
+			<td>Manual tests</td>
+			<td>Automated tests</td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+			Steps may be described in relatively abstract terms,
+			A manual test may contain a step &quot;
+              Register a new user&quot; without explanations
+              how to do it; automated tests must clearly describe data,
+              so the tester will be able to see new problems while following the test scenario
+              and the registration scenario. </td>
+			<td> Strict order and elaboration of steps.
+              Only what has been included in the initial test scenario gets checked,
+              so new errors in the product may be overlooked. </td>
+		</tr>
+		<tr>
+			<td>- Because of abstract descriptions of test steps, manual tests may sometimes give false-positive results: the expected result has been received but the tester has executed the scenario incorrectly and missed the bug.&nbsp;</td>
+			<td>+ Automated test runs usually give the same results, as the scenario is defined accurately.</td>
+		</tr>
+		<tr>
+			<td>- Checking regression takes a long time, which results in the tester's tiredness and consequent errors due to lengthy monotonous work.</td>
+			<td>+ May be run on each commit of the application, which allows early error catching.</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>We also need to say a few words about the disadvantages of automated testing:</p>
+
+<ul>
+	<li>Possible test instability, which is not connected with the quality of the test itself but is rather triggered by external problems: unstable network connection, server problems, product code updates at the time of test running;</li>
+	<li>Automated tests require considerable time for developing and supporting.</li>
+</ul>
+
+<p>Despite their disadvantages, in most cases, automated tests help to find errors faster and ensure the level of product quality. Automated tests allow optimizing testers' work and help to make users happy and – they can get new features in a shorter time and don't suffer from the errors in the product: developers quickly identify bugs and take measures to handle those without postponing the release of the product. Thus, automated tests help develop business by increasing the rate of implementing feature that bring profit.</p>
+
+<p>In the ideal case, manual tests are run only at the stage of checking new features – it's a exploratory kind of testing, which allows finding problems in complex user scenarios.</p>

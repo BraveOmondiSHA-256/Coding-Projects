@@ -1,0 +1,21 @@
+type: edu
+custom_name: "task: find element by tag in browser"
+files:
+  - name: task.py
+    visible: true
+    encrypted_text: bS5A/+EuZjIy9Hw4Gr1D2g==
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YddD5vD39ZMTf1XUORg3lM05+yQNZcgfcqMD+kzAVPLn2YsSKieyi6mEq+ZAlwp3jpA3h8ax07BDsxMmFZ5CF1SuaB+ZCUKbBN/zrR+CtRwbefEtFFNKIDC4ByaDWbSViELsFEzAXpApB9iLMVZ/WVlVUbi6/xqEcRcd0kbcJY4vj177A3xP1sfGGuGPzDWL4ChhuIdf5fHNFqw579G6C9s5Cqy20XRY/aXRQwm2lFQY+WuGIwWAABR7Fvu5p1UJRaSqnLcOziIB/siBJwM3zi0OTXQqBn79dqmIFfJtBntMr
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Unchecked
+record: -1

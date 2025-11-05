@@ -1,0 +1,21 @@
+type: edu
+custom_name: "task: starting browser with first script"
+files:
+  - name: task.py
+    visible: true
+    encrypted_text: MnSUnFFtM52ZrOJ/7uMEnuEhHrjsyf+Kkis9S8MBSPr5HipQIY3K6rEJAd9BU6W8majnl9KuDZ6NCpnyCdlPah/XFDOxQRMpEg1tp6AqGXKPE5x+T7Ml/ZxvuUAzT6yXXtfbv1V18s/kw2KKjZps5Bwb5U1+uw7j5C+naf8mNIsAMlE24/4qt8R6mFYw6dYKmfAFqrFJM0wY47lWYHVPCfXqFAnZIXZ+S0ZLo/Y7NozObazJvdPkcD2ccJ+z3dmGdFdjJwT1Sm3GYIPgIYy7qs/CHY/uJsqXwOpDB0JriAcc3sjJVo0uqB33ecgHdKdYGJsZ6E48VAC+TW1DaXaocfPPeOKWsXxrOzETMXvsYhtsYJjellhfCAZJfEH66xUTRBa1ASgdvCqFbw7LNnNIwe0GOUYhzebt/p3VjoVeipKRRg0UslsaLBsQtPbgn/FJNFrpCUkP52ZcapBFFYl6XWl7pNJYzODlwt4Xnt0s2rl2T2i8UKNM3cX9xoQ6pGB/xLeANNfHG/gNUhtjmew2xuwZT3h6cFWm5Vs0y98hy/SZ9lu92vzcCZ7O1KdwlYxLCUXnkC9TNXLMxhxk1WR3XLWc2JFzjoug75gguiisspOWZ9SSl2n7ko8ixEwUN5/4hwmSqtQdpupB2c1HfF27lJY9rgP8lMkEFEa1ymjVXLirfJq3CF6vw0AXi70nt1up54s2MywBpfQW7hT3NG/j4BbLYAznq1x1hK0lmrZh/tQ1pydi315k78brDXEsrlRLx8ie93k4ti+fx79cJvUQ2lsfEBgmIt9GD/WX6Nw36Y6+NZZYCjXQt3rMRBcmI7GGYzjhQ4ZMEJBkp8Y/LbzrYZCCvDHn9ddzB8efFGuV896XjiCM0O3ylne4hd3qVU2HNZNsNA5HHhQoOKQIdhcJ7JqCw0AvlPCgXu51OLgGcwZS3odBAg/YbTRiPw1t6vkpop/WnJltIBtjJy6fW97I1MENNQ6ylWVGLd9As1IkqWS/g0zpAw6Xi34yoWFP93zppURBs2x+NXwDR3VDHKjrQPBzHTOxaWNtVo4Z6RYMJ9RCaZzyFLeJOjZlmG0IukpHCA+C5e52NXZBIb/kgDFiz17cHXgppYsNYbKOyctnjkuwGuRkiL4n98nsdIWwUlI0CxFeLIiysjQq6Schd+hA47kicXbnCzXuotYcA1KjIIaIsHWmn012YET7MoUQ9hMj
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YddD5vD39ZMTf1XUORg3lM07l3/uGVQjY7f1r4N24WQw16GrfR1h460zr3GcsKArs0g41Fnj42HUb93jR8Cacz8eNK2+5P178aHrpvg3nOWbxMCHIllAfxm5fjGTBIkncK8y76F9TYL02zduKY27j9fVsVltYyqIiJimKViUgNON9BIJSzFC1ZIKGnxXSOM2eSi6vg24Rf+2THmyDVEcIchc0lQGw6fhUFsAxP+euqQMv
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,32 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: number 1
+    is_correct: false
+  - text: number 2
+    is_correct: false
+  - text: number 3
+    is_correct: false
+  - text: number 4
+    is_correct: false
+  - text: number 5
+    is_correct: true
+  - text: number 6
+    is_correct: false
+  - text: number 7
+    is_correct: false
+  - text: number 8
+    is_correct: true
+files:
+  - name: main.py
+    visible: true
+    encrypted_text: eferBCJRUpIZ4ayufvWxuWrBZmK6TKQctwAe5ytqCnkeaFcLE2GBr/ZOfCGo7jXN7CS3Dc7t/FfngtrQTwhODbjb1eEDBzavQG7GYUVnoAc=
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Unchecked
+record: -1
+custom_name: "task: running test with pytest"
+local_check: true

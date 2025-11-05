@@ -1,0 +1,77 @@
+type: edu
+custom_name: "task: writing abstract methods"
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 127
+        length: 6
+        placeholder_text: '# TODO'
+        initial_state:
+          length: 6
+          offset: 127
+        initialized_from_dependency: false
+        encrypted_possible_answer: oDdt0RqQFw6MGIxiZbEM2XvflRqtuTiO/rIEJyyjw8zZ7cggGrKZ3DeSU5nRtE5l7iSvYXE6ZP/i0KzonYzHVn8GKBviuxyBE31RpM+qndy+tyiKO4YMZAVzyK+2vByA+HLi/09T8fWjL15A9xG2KLDOP88G2uozCghkzA5MrB8=
+        selected: false
+        status: Unchecked
+    encrypted_text: FgOEZMOf6Gt+u/nhPcLdhFC5USxJAyXRHMeiTtqVdnLmpNnbAE812Tu9x6UcrYXM4oKGWYbRIuzUoN2CnpdYQza5CTUaoHZdE0gEEfscCM5S5IcUeL13FMtDlunQrd/QzCmMbdAb/UDa3YAlM5ASMjZWbQNnEKXWnazvUk6J9fkJJgT9uV0tY3pMnsHFEztt
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: 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
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: steps.py
+    visible: true
+    placeholders:
+      - offset: 207
+        length: 6
+        placeholder_text: '# TODO'
+        initial_state:
+          length: 6
+          offset: 207
+        initialized_from_dependency: false
+        encrypted_possible_answer: WVpT9NT4aS3BMZFllJJFyIJzNMVbhQd1Gi2nlAXL3Gt0OBvaE/esvmZ1X2F0ucjzYLEbO+Y+1Ef1VCHcv23Zvd+SagSXZzRp/UFxxWJpbsqJF5CW2S0qB+l2BuEpNx/fYtC6OwmeULiypF22K4rbGiRmDb7M2ortCcn7B71RBxncxxrmn01Kavl1n67URESJeEi5WME5VPh4WVd2yVBsSypwwUVIEdOTCvKI4NUaLSKB83uFeDMhcrJHnhAbqWftHTvT8z2p+ly9kMZ8qppB4Y37L4SV3InLsd2pfYsPDkSQm9Xvt5IDrLUzd5dTw3LwFo1izjuvT1l9RGWvEOyNJH7vcrbKZXNubnelZVnd6UzRMLn1r7+J9betFkcsYdc4
+        selected: false
+        status: Unchecked
+      - offset: 252
+        length: 6
+        placeholder_text: '# TODO'
+        initial_state:
+          length: 6
+          offset: 252
+        initialized_from_dependency: false
+        encrypted_possible_answer: 0DD+Qfviyu1uk8DQ7I++EIzDq10YyZ/nFy2dEWBHCiQLsJnHeT/3wssKP6Fw8fPABYr9zZZjugaVoHvd1c8WX0FuwJVmVvB/XNICk29mzK0ppoK2ItjbfLhw7N22XXSbt43P9PBNfBRJz/BlJASrC1Bjc0fAuvEOxq45ON50T08=
+        selected: false
+        status: Unchecked
+      - offset: 294
+        length: 6
+        placeholder_text: '# TODO'
+        initial_state:
+          length: 6
+          offset: 294
+        initialized_from_dependency: false
+        encrypted_possible_answer: yidjSHXvXmvzX4oN9B2CE0jXunpHcre8o2ZfbF8JVOdxR8EAfUEdp2eEbV2YG8TiX/055Zpt+A2BNsMz6PWE09CJh6T7ck/M10/aUiwuIGQrHdP/BHDi1ciqvNx1dmYx
+        selected: false
+        status: Unchecked
+      - offset: 321
+        length: 6
+        placeholder_text: '# TODO'
+        initial_state:
+          length: 6
+          offset: 321
+        initialized_from_dependency: false
+        encrypted_possible_answer: SKSCvXussZTgVz1NOSiCsp5p2xOm4fhlx4N9fRHP8S56znBnXB7Ez3/QU0M9IYOio6nYcqdm5e/F/uLcVf6M3oJ725qwfw9vaEdhjsmhQrY=
+        selected: false
+        status: Unchecked
+    encrypted_text: tIGrqsYHJzGbMFmC8OG95zfwqYTJKuFxZMH58lSDtm+uDT5s10O7BB+Co460kGMfQ/xlN3K9GrXWPA6/j9N7EwEkYp3s6zJ/KYMszZRSkXr3zdIVaFhcrJ+iOSYF2/RO7zjmpb3kH++bD6+mEbSuC0u57vtMMElzdp4HUEdNOvC3yeUqNSWqgnAcF8OD6TxxAYiUPptrgMV9AIOjKAsieao3BJrCNrsZMOkOcUA816IykclJGYDqwDS92vDbLuIY/5EeSknemkSDmUAXcQOIMKA24E7Jpa2SVRtNOPNwo9Ov8MNHUjpAqXAr920UY6FUJYYvUzJiULZ2r19rJE9DMGOskZbjgrUlPwceZKUXuXl3qOJMCX066EsyGD8em5+MiJG93BmhSwkBG/z24ntIyvVaoJ9ZHVqP92KwrV5FDetqcdYN2GHovMdPjC0yJFnd
+    learner_created: false
+status: Unchecked
+record: -1

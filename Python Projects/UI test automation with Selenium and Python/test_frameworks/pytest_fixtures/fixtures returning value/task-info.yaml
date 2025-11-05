@@ -1,0 +1,14 @@
+type: theory
+custom_name: 'fixtures returning value '
+files:
+  - name: test_fixture2.py
+    visible: true
+    encrypted_text: zNVfaSK32bKPs+kZpo/L8IN/74zCwyjQAvYLyejQ3vezi/1vLCfwrUHcKU+dalehO1CEyb4NC3cUn8x0K6IpnzNgmdAKMtmZ6MwuzHchV/PgGfhkHIJsIYyheKVxOIuG7+TXztDk2Ad+wvnn6cGODViWYiDTPBnhQgu59IeoIUk0afxIu8IrdidfOJvAiHDz0iQzCPXHEmL1kACPw8Jhoj/vfmyUEy+6U28DYDhWilIUku7cP4u5tACFbaPla9auMl0eJPWk7ea4DON5GVWOT4R4IjUf3yMyeTA7iO5dRo8VbFC0tRBLvons8t/bfeIUW32WIb0RbKTrdVTr3F85nJL9sr60S64ROcihVE5KixcNEvtGTzA2OLNl3AGO/B1QoDf3LexCzMwLd4z7K9h7/qEcvX3JLIlnoxbeVLdENsSwpoms1CiGFOAIej5uswgEUq18ZyFUeU0Se8LSYtCOojpX6QJBXP9nzzWW0S9ZFeUHNv3yQfxntPXWZCaI5xYt3E8UxjM2MnsS0nib9ApTI2mFxevaRdVK7i8UZ4Yc9ULXulwc9hd1wl1+WWV29Q44BW2CPQ9nM4tzJeIBswyLaiaoByDINLYDlmAbSldshV/ux1e5MihbCDBhmYPGC263Lfreh/JzUbx75LJVdXfBynm4KqrYIgLatrklIs2eJnIe2cAV0lxcMZ2k4Hi9cMEIok2coxlgodI0IFsPPxVX9++3T4tHROOW+tekgvMfJmxF4L40EUSnJb1XU0vHrTfIEO2XatOUPprA1AkKiL67nW0Q0Vbkc4JGvldgrz5PE8Bhf5a06HdaWLi4VgOu6j/ENIpwsODwCfsLtiR2fdIwhjJRfI+UZJxalB0dKnErHhoFbaqgcyiC/dqJeuw6zAfD
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

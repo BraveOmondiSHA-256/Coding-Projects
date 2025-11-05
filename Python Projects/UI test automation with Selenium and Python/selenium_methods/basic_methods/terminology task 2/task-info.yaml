@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: this is radiobutton
+    is_correct: false
+  - text: this is checkbox
+    is_correct: true
+  - text: this element allows to check multiple values
+    is_correct: true
+files:
+  - name: main.py
+    visible: true
+    encrypted_text: vGDuUAvwUOWTicIJ9R+xLLSmdpITddfHHVP3sglZZzvRm8UDwKSLa/RTy635sO5wuLmGg6012UpwmgQY/eMKitYfoxRQsQv63pVfS4Wkvqs=
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

@@ -1,0 +1,13 @@
+type: theory
+files:
+  - name: test_fixture8.py
+    visible: true
+    encrypted_text: zNVfaSK32bKPs+kZpo/L8IN/74zCwyjQAvYLyejQ3vezi/1vLCfwrUHcKU+dalehO1CEyb4NC3cUn8x0K6IpnzNgmdAKMtmZ6MwuzHchV/PgGfhkHIJsIYyheKVxOIuG7+TXztDk2Ad+wvnn6cGODViWYiDTPBnhQgu59IeoIUk0afxIu8IrdidfOJvAiHDzjceHYkag72tZlFlFmV206Zs5dOZuLmCiwJKCKSWzi7H/WjIS4SmNRIMtgTsi/mcjqNMcwWyyZZoWdlqSDnxrWWbTDp/odXFFzGyIhy0uFqDuJgrRnE3bGgicb+inmb4JfGOrRGRPGQf01Ifeghk0NSBQ9GX60Z8iC5H6I7yakO5EcI4fU9SyH/1y4TAZQ0ZgR+NhC+iv5Dv0PVkfrypXdq39lp2Qf+AbsilTAl0vRE4ln8FDMQCCokdXJ1nsEWa5/6GLvdUB1DyWkeU0SEBFiG1KjWSUMvM6npf2Hk5iDZK2x9SF0s9k0fdpU7isbUV5b65ICYqr8cDVuU2mUsQc/A9FhL/v6v9JMeOuhUGtlNL2GlGk1KF0Y4TFuzVajp1ExiC/5PJp1G96uSxPAkn6CHDzjZt80pP4pE7NnrjUhH44jekkksbh8boW++ZDIxGWnTz6hdHnGWAiMqrX9u69K66/nGk4DvPqZQpxqaeUrU5NdLoYgyePhA66VeLN6VvC/DSt4KEZ4jt5v3TUtK8tVytW9TWuU5oLsafH3psa2wKiUrPaYuvUmQJWHU/f6Y3tO6VJzjDhXiMpDXh9bNEi2nF3wDp3em4jqsyXhV1HXCdEZChhnGx5J5dHmRPaCb8Wi4hReM8eOa3osDhmq/iEOkKkXlDzvbtoPegoDl93Yrmvvx4taS/U2LSEKVVADu4/IrqhrGhsvtuemc0FzRrpSKnuwnK89Pa4ReoB/s61M1dcxSnsQkZnuZObpc1xL/mHYFFKt2exLIDoZJgeTnFT4A==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

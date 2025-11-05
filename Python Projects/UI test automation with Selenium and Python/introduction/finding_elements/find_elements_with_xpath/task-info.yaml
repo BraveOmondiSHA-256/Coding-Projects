@@ -1,0 +1,32 @@
+type: edu
+custom_name: "task: finding elements with XPath"
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 9
+        length: 6
+        placeholder_text: '# TODO'
+        initial_state:
+          length: 6
+          offset: 9
+        initialized_from_dependency: false
+        encrypted_possible_answer: quNbeJvip56rG2R6AJjSuCb3XFOpOUsjgmGRQzbUrr0=
+        selected: false
+        status: Unchecked
+    encrypted_text: 7SFw2iLl1HD7MgluR4BHQNxKW2a8PJEf3EVow5OL2Mc=
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdUiE+sQRwyKJKyEiXpRs9Q4/maiy1ShNhA0CPa535VQOgxu+oR/1WBgPNnTeBVWIqHj70/G2sjG2WfI2CnJNv3/t9YQ0CRJCDnpihvTaOomFiEvi2pikgL+3214B4ajs6pTRchQwc3VlXtk52ZWzqE12WmJuP69h1CrzZMKjo/g8dSWskJWlf1nQTEas4GZTKMacU4IEXNSlz8VIQRIX6eg8Y14gUl+xku5Cj7QtlJuhrDkAW9Eh9PBPIdi4axHUGdgYO247E/lSl8n8Ncc34u1cYInYCt+DcDJKqsCAVzV7fGv+SM4jC93mKrYPdMp7zPjWm2j56sdKA1c2q3+IgB7nOg55oU2EvK00Hqywq4wFQmqy9su0gYgBRwd66LoZkBOAu1qV4pT1FZRds6DikGecOsKtGd+NKkCKydPC56nQxQ0e9/idYpBgORSiQNA2f5GUx4WyXIZ14sxrzdRoAKqnqOIhwfo+44L4WFJfCAdczH8noeiUSsdm61mQWdGMJtsa7tcxTA6bsVu3q1ZczOF2p4SQQK9uAR2HVaepWFSwZbWGS3/xTjgVndHc8JAexjiWOsvWQftBi5HjRrPlHrziVaGWh6Rv4nKxGyCNMffbv6544Qol4wtkunsCEQwx6lRmIYlb2nFY7GWpE4jvLU5DyQNWVmHW0pa7pwIiQo0RJxDYSsJH3yKngLtAI2l7IWsfBhfFPZHeCMm5WS8d9p1cXh9NUOBfq7UjvRkun0LtHSTZRnyvZusNV5w3HmIxLixn/pQNTIixmzVXXa5x1SzhnOXgdDVbpzNhjclD39OcyxQQoDgNlIK+ahI514EVOH89Y/o/xsQlNyZgqKIS+JWR3Te8mMegIDbCaXOMTrdBIXucXTwj09iYawcgysFFhMm1re2MHJjG+t7ttOAse67DVuhKGx6fGMTN3Y1ACbUN
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Unchecked
+record: -1

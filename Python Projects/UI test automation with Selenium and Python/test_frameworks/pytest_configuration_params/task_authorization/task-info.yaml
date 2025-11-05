@@ -1,0 +1,32 @@
+type: edu
+custom_name: "task: authorization"
+files:
+  - name: task_authorisation.py
+    visible: true
+    placeholders:
+      - offset: 165
+        length: 6
+        placeholder_text: '# TODO'
+        initial_state:
+          length: 6
+          offset: 165
+        initialized_from_dependency: false
+        encrypted_possible_answer: DHHMicEQiu0njep5K00A4/U8njC2graJ2p5E6C0UaNVF01Z9prXu9Ub6w6AFvcgp/xzK27d/sVwcHVwxvH1J/yVEqNjt3Q5ww057F21XdHBLl6LlTeoOFhqd7g/wp2mR1UqqLKQ1trSU1I/f/5K8W4wZ0ENmi9hfixzEULda7yOb7Q6Aw7XUtrT6NS7O9L10j4skqO1gT3PBzkdZ8/vkJ2CsbgKqcWyBlqOoHLVhHuOXN6cVMKMQU3lQ9UPC4gqYaina6gVy5KM4KM4IQVJLjkOoS4KdGFOPU7GHjLrCodhk1zP4xqQf8vfctPU7lC8xToVRas2IUmYPUYfGkPhIy/Ql4/pKBw5/EKwAGfV9hj+JwLt1bbkhgk4FVVpMfMSktPgYq897WCfgJinapnpYWQNbBCYq65vwcfUpBScFb82sJvSooD2Flhl5r8t+V2WK0EdIiM25TaYf9pQxK/2Q/w==
+        selected: false
+        status: Unchecked
+    encrypted_text: tIGrqsYHJzGbMFmC8OG95zfwqYTJKuFxZMH58lSDtm+Zfx6IJzqnhv2c+FGoVVvnH+Y69lMJarwo6ef1+nwICqRVt2g35twKchnstkg1mmzZluIvkOs24ISThFuO7LksUWgKnEsaLX2O1+4QrnHM90Ik9anEVWw2nVYT6ADgsXBfZfweUW26cRIFTHNpJ2lagy/H8A9WyfGEUcocVn0CJekPQmjXdJ3ggAsMVn4NNjE=
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdUuVRut+5Ep4khfbZ53Ve6ULlWcDar6N4U6h4Hz+/apwd27iXI7UnXjcnvZsELL4/6BcCpEDlmbqr5b1vSQlHvkawC5I/l7ZPeiurtAszOsXfFYwP2MRxAd4SE3UyKn2bE4PJnVcmRfQr1kEsu3f4a1bXmHsfW9frgA2mrr1KUno6kUgWBiXJrtUgWyek15dSn0QVeYAGWo2pVnrWGMA0y0i/PoVAlFGT+rGvqZ6gmgBrSC3nG5689nbokqn0bcah3jP2FpwzYAi66z/rqbMUSnrRfL5XOgwfl+jC8IcPtYCTWaU5kdOLjDaU9LUu9gHtPrFbsp7jc34GkHTKV1WJZqOo+DEsgB9Bo81iajV3Aj7Lj2dN3EkG4Yq4hQNrsYnTwVdaLkOwB06gqOu/hkElPVXpFaWR9IkHHCSXEn24Eahct21uARsp4yq1fFZsi0smJZkgNWFlWNrDQYW4yOHgqCNKACqbzEJN53YLB9xLht3LUsVo2ZPkwKgRRxH/K2Kk/IihBbuDgjAyygY6S6gBwo=
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Unchecked
+record: -1

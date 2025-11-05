@@ -1,0 +1,14 @@
+type: theory
+custom_name: 'implicit waits in selenium '
+files:
+  - name: main.py
+    visible: true
+    encrypted_text: WWcsCNR03yq8bZBO5ao1XgeAAadWiA+Km6/f03FjVsA5gIB+9eEwkQyCdTzUU4hBtOnYym8BkX53LySErPgpqI1MRREc3USFYU4rTiAPkpaq+HFIFaInOat5OYLMiuUpxaVCZ88SIY5WAdkOgbzMJKoIzVNYUIB+dHavolZRfGHJUNydB3FxrUbSinI0YdKMJux7ye6dOUtfhETQvdS4uJq4h+cAGZgvo6ACQJkLcW9Dz/oIpqGzzmgrs3ZZj9+Qs7ae9/u66Y0OF3lM/0RGF7Cwe7e1apEIij9gWn0Kxpgo5vPkNtwAPz3nqcJdmE/7fV3/evhuY1hTYEwyUsBelLBEfOfLBFizm6hJy1pFqPmMi4Ror40sXPu+5XCpPvMsFj72IVQ9ithzRtYfhy0/tWUJRhcFENOFlp++esOvIGXLXjSPzeybkQgXeMmf6d6vuY7/BI6+a1KwRoAQDvCun33z7nAsJQXOh2tsRzLMkmy6pZE1yH3ej2215P04vNM5f1/iEp4+i4vP6Bl3Vesqvw==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

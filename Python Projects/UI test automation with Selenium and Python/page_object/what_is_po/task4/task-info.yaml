@@ -1,0 +1,14 @@
+type: theory
+custom_name: first step towards page object
+files:
+  - name: main.py
+    visible: true
+    encrypted_text: UyVbv7/ABLjBQ5f5Qu5plwBz9DKlxZQYN3pK3/PHemv0LaXFDK011UuiUEoJN5FiLZGdcNN6lD/snVQZ3h3ZCHdxjnq8sRR/84M6JbguTuWkOP+2P0CZgJQOwiwc852P98dVeITL2XmiQ6XIQKD3qkoQq2uo0TLb3I0tceQ/817StMtjFDR945TQCrfEwFyMS9fFJRm9Lj6Z3DS/IaCJQkShSJJWRnVCv5G9bmCQ+GwqCclvSvHvar/42ZJkzWRuQgcoERD9ifcFPaSd6RmDZYP5ltQggF2LBc/Rg7SDGqZUFmubysu7ORSyL4r7igVOvaxFqNsCOQEyKc8H3hgvMOm2Jcvp6DHP+gu1hLXzkvbKHLjh8S/FzK136rtuKYtzVwSs/oWD9Hava47LHXMlnxcRzkqZoMxB99BGeoDx/DBh+mHJIkeaeFBYDynGFzQGS4ckU+J6nryAbWc4Px38hXHdcd6XXQChyrFPYvHHQymjMGlWORTluhlh7Ub5SqNMylZfQFFXhQ2z4LXvzVn/5gyl6b2tOk3C/EHMiAMsD1wy8zl1dFojMENi9nesxmF97RbvDjULbe3MyVpN2er/Tw==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true
